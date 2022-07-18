@@ -1,2 +1,2 @@
-# dio-desafiogit
-Desafio de Projeto sobre Git/Github da DIO.me
+# Bootcamp  Santander
+Todas as anotações e atividades práticas efetuadas durante o bootcamp da Santander
