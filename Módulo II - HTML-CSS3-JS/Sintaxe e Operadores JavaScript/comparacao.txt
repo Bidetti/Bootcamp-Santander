@@ -1,0 +1,9 @@
+OPERADOR                            DESC
+==                                  Igual a
+===                                 Mesmo valor e mesmo tipo
+!=                                  Diferente
+!==                                 Valor e tipos diferentes
+>                                   maior que
+<                                   menor que
+>=                                  maior ou igual que
+<=                                  menor ou igual que

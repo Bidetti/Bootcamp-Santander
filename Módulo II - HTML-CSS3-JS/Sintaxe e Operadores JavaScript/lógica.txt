@@ -1,0 +1,4 @@
+OPERADOR                            DESC
+&&                                  "e" lógico
+||                                  "ou" lógico
+!                                   "não" lógico

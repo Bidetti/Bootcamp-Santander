@@ -1,0 +1,11 @@
+ternário
+
+condition ? expression1 : expression2
+
+==
+
+if (condition){
+    expression1
+}else{
+    expression2
+}

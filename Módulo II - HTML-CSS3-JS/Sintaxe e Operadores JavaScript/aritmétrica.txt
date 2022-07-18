@@ -1,0 +1,9 @@
+OPERADOR                            DESC
++                                   Adição
+-                                   ...
+*                                   ...
+**                                  Exponencial
+/
+%                                   Módulo
+++                                  Incrementar
+--                                  Decrementar
