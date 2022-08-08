@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0902e21e-945f-4049-8c8f-869030a38515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Módulo IV - Java/Lógica Condicional e Controle de Fluxos em Java/CLBSAula01/src/com/bidetti/bootcamp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Módulo IV - Java/Lógica Condicional e Controle de Fluxos em Java/CLBSAula02/src/com/bidetti/bootcamp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Módulo IV - Java/Lógica Condicional e Controle de Fluxos em Java/CLBSAula03/src/com/bidetti/bootcamp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Explorando Diretivas com Angular/my-first-project/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/components/button/button.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/components/button/button.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/components/button/button.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/app/components/button/button.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Implementando Serviços e Injeção de Dependências com Angular/my-first-project/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Módulo IV - Java/Entendendo Métodos Java/Exxercicio03/Exxercicio03.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2D2KPY8BZloGOi3UVuDdnHJnYfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Bidetti/Documents/Workspace/Bootcamp-Santander/Módulo IV - Java/Programação Orientada a Objetos",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0902e21e-945f-4049-8c8f-869030a38515" name="Changes" comment="" />
+      <created>1659891716163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659891716163</updated>
+      <workItem from="1659891717396" duration="24000" />
+    </task>
+    <servers />
+  </component>
+</project>
